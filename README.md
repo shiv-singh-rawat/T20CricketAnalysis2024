@@ -1,7 +1,5 @@
 # T20CricketAnalysis2024
 
-# T20CricketAnalysis2024
-
 Objective: To analyze and derive insights from cricket match data, focusing on individual player performance and team statistics.
 
 Key Features:
